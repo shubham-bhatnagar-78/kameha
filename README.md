@@ -36,7 +36,7 @@ npm install
 npm start
 ```
 
-Goku appears in your menu bar. Click the icon to summon him.
+Goku appears in your menu bar. Click the Z icon to summon him.
 
 ---
 
