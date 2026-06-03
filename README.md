@@ -2,7 +2,7 @@
 
 **Goku lives on your desktop.**
 
-A menu-bar app that puts a fully interactive Dragon Ball Z Goku sprite on your screen. Hold to charge. Release to blast. Double-click to vanish.
+A menu-bar app that puts a fully interactive Dragon Ball Z Goku sprite on your screen. Hold to charge. Release to blast. Double-click for Instant Transmission.
 
 [![npm version](https://img.shields.io/npm/v/kameha?color=cb3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/kameha)
 [![Electron](https://img.shields.io/badge/Electron-42-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/)
@@ -47,7 +47,7 @@ Goku appears in your menu bar. Click the icon to summon him.
 | **Click anywhere** | Fire a quick kamehameha beam |
 | **Hold mouse button** | Charge up — the longer you hold, the bigger the blast |
 | **Release after a long hold** | Unleash the full kamehameha |
-| **Double-click Goku** | Instant Transmission — he vanishes in a white flash |
+| **Double-click Goku** | Instant Transmission — gone in a white flash |
 | **Escape** | Hide Goku |
 
 Goku follows your cursor everywhere. The charge bar shows how much power you've built up. Hold long enough and the screen starts shaking.
