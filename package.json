@@ -1,11 +1,11 @@
 {
   "name": "kameha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Goku lives on your desktop. Hold to charge. Release to blast.",
   "license": "MIT",
   "main": "main.js",
   "bin": {
-    "kameha": "bin/kameclaude.js"
+    "kameha": "bin/kameha.js"
   },
   "engines": {
     "node": ">=18.0.0"
@@ -35,12 +35,12 @@
     "assets",
     "sounds",
     "icon",
-    "bin/kameclaude.js",
+    "bin/kameha.js",
     "README.md",
     "LICENSE"
   ],
   "scripts": {
-    "start": "node bin/kameclaude.js",
+    "start": "node bin/kameha.js",
     "dev": "electron ."
   },
   "dependencies": {

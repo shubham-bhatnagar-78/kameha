@@ -88,7 +88,7 @@ kameha/
 ├── preload.js        # contextBridge — exposes bridge.* to overlay
 ├── overlay.html      # Entire animation engine (self-contained, no build step)
 ├── bin/
-│   └── kameclaude.js # CLI entry point (kameha / npm start)
+│   └── kameha.js     # CLI entry point (kameha / npm start)
 ├── assets/
 │   └── goku_sheet.png        # 3-frame sprite sheet
 ├── sounds/
