@@ -14,9 +14,7 @@ A menu-bar app that puts a fully interactive Dragon Ball Z Goku sprite on your s
 
 ---
 
-[![kameha demo](assets/demo-thumb.png)](https://github.com/shubham-bhatnagar-78/kameha/releases/download/v1.0.1/kameha-demo.mp4)
-
-*Click to watch the demo ↑*
+![kameha demo](assets/demo-thumb.png)
 
 ---
 
