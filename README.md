@@ -22,7 +22,7 @@ A menu-bar app that puts a fully interactive Dragon Ball Z Goku sprite on your s
 
 ## Install
 
-### Option A — npm
+### Option A — npm (recommended)
 
 ```bash
 npm install -g kameha
