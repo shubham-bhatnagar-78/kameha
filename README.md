@@ -14,7 +14,9 @@ A menu-bar app that puts a fully interactive Dragon Ball Z Goku sprite on your s
 
 ---
 
-[![kameha demo](https://img.youtube.com/vi/8pYcnXBWkwM/maxresdefault.jpg)](https://youtu.be/8pYcnXBWkwM)
+[![kameha demo](assets/demo-thumb.png)](https://github.com/shubham-bhatnagar-78/kameha/releases/download/v1.0.1/kameha-demo.mp4)
+
+*Click to watch the demo ↑*
 
 <img src="assets/goku_sheet.png" alt="Goku sprite — idle, charge, fire" width="320" />
 
