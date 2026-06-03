@@ -1,0 +1,52 @@
+{
+  "name": "kameha",
+  "version": "1.0.0",
+  "description": "Goku lives on your desktop. Hold to charge. Release to blast.",
+  "license": "MIT",
+  "main": "main.js",
+  "bin": {
+    "kameha": "bin/kameclaude.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "electron",
+    "tray",
+    "overlay",
+    "goku",
+    "dragonball",
+    "kamehameha",
+    "desktop",
+    "fun"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-bhatnagar-78/kameha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shubham-bhatnagar-78/kameha/issues"
+  },
+  "homepage": "https://github.com/shubham-bhatnagar-78/kameha#readme",
+  "files": [
+    "main.js",
+    "preload.js",
+    "overlay.html",
+    "assets",
+    "sounds",
+    "icon",
+    "bin/kameclaude.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node bin/kameclaude.js",
+    "dev": "electron ."
+  },
+  "dependencies": {
+    "electron": "^33.0.0"
+  },
+  "optionalDependencies": {
+    "koffi": "^2.9.0"
+  }
+}
