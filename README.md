@@ -18,8 +18,6 @@ A menu-bar app that puts a fully interactive Dragon Ball Z Goku sprite on your s
 
 *Click to watch the demo ↑*
 
-<img src="assets/goku_sheet.png" alt="Goku sprite — idle, charge, fire" width="320" />
-
 ---
 
 ## Install
